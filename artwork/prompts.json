@@ -1,0 +1,25 @@
+{
+  "tool": "Built-in image_gen",
+  "date": "2026-10-06",
+  "purpose": "SMOG launch artwork; promotional art, not gameplay screenshots",
+  "assets": [
+    {
+      "output": "smog_header.png",
+      "source": "artwork/header-source.png",
+      "prompt": "Use case: ads-marketing. Create one polished, cinematic landscape key-art header for the independent Windows horror FPS roguelite THRESHOLD. Wide 12:5 composition for a 2400 x 1000 launcher banner. A frightening empty maze of aging yellow wallpaper offices, low acoustic-tile ceilings with a few dim fluorescent tubes, damp worn beige carpet. Impossible corridor openings and a single battered office chair partially intersecting a wall convey surreal Backrooms geometry. The main focal point is an ordinary wallpaper wall with three strips of matte dark blue painter's tape forming an unfinished rectangular doorway, with tape overshooting at the corners; wallpaper remains inside, no literal blue door and no magical portal. Peripheral corridors disappear into near-black shadows. Restrained bodycam lens curvature, faint analogue VHS grain and color fringing, strong photographic material detail. Dirty ochre, charcoal and a small cobalt blue accent. Original promotional concept artwork, no HUD, no people, no monsters, no text, no logos, no watermark. Leave enough calm shadow areas for launcher UI without making the art unreadably dark. Full bleed image.",
+      "transparent_background": false
+    },
+    {
+      "output": "smog_logo.png",
+      "source": "artwork/logo-source.png",
+      "prompt": "Use case: logo-brand. Create one transparent title wordmark for the independent horror FPS game. Exact text only: THRESHOLD. Wide 3:1 image designed for 1200 x 400 PNG. A single perfectly spelled, clearly legible uppercase word set in bold condensed industrial sans-serif letterforms, warm off-white ivory with restrained worn print texture and tiny analog horizontal distress. A narrow cobalt blue tape stroke sits discreetly beneath the word, subtly interrupted at its center like a breached boundary. Premium minimal psychological horror title treatment, strong readable silhouette, aligned clean baseline, generous transparent margins, no small subtitle, no slogan, no extra letters, no background scene, no decorative mockup. Truly transparent alpha background, no baked checkerboard or shadow panel.",
+      "transparent_background": true
+    },
+    {
+      "output": "smog_icon.ico",
+      "source": "artwork/icon-source.png",
+      "prompt": "Use case: logo-brand. Generate one square game launcher icon for THRESHOLD, a Backrooms horror FPS. The symbol is three broad cobalt blue strips of painter's tape forming a tall simple doorway outline, top tape extends a little past both upright strips, no bottom tape. The outline is centrally placed on a simple dark mustard ochre square wall tile with restrained old wallpaper texture and near-black edges. Interior of doorway stays the same yellow wall: no open portal. Bold highly legible graphic shape, strong blue/yellow contrast, minimal detail, front elevation, clean silhouette at 16, 32 and 48 pixels, subtle photographic tactile tape edges. Fill a square canvas with the tile, no text, no letters, no floor, no room perspective, no glow, no UI, no watermark. Premium understated horror icon; the doorway takes up 75 percent of the canvas height.",
+      "transparent_background": false
+    }
+  ]
+}

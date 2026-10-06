@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "smoke": {
+    "exit_code": 0,
+    "seconds": 8.46,
+    "pass_lines": 226
+  },
+  "first_launch": {
+    "exit_code": 0,
+    "seconds": 4.87
+  },
+  "after_update": {
+    "exit_code": 0,
+    "seconds": 5.65
+  },
+  "external_profile_created": true,
+  "profile_reused_after_install_relocation": true,
+  "install_path_with_spaces": true,
+  "unrelated_working_directory": true,
+  "batch_waited_for_engine_shutdown": true,
+  "real_user_profile_accessed": false
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smog version="1">
+  <title>THRESHOLD</title>
+  <description>Cross the blue tape. Survive impossible Backrooms corridors in a solo bodycam FPS roguelite. Recover rare weapons, activate relays, regroup in protected refuges, and turn every escape or death into permanent upgrades.</description>
+  <developer>Threshold Protocol</developer>
+  <genre>Horror FPS Roguelite</genre>
+  <version>1.0.0</version>
+  <accent>#376BCB</accent>
+  <tags>
+    <tag>Single player</tag>
+    <tag>Backrooms</tag>
+    <tag>Survival horror</tag>
+    <tag>First-person shooter</tag>
+    <tag>Roguelite</tag>
+    <tag>Procedural generation</tag>
+    <tag>Incremental progression</tag>
+    <tag>Bodycam</tag>
+  </tags>
+  <release>
+    <asset>threshold-*-windows-x64.zip</asset>
+  </release>
+</smog>
