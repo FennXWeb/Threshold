@@ -8,5 +8,6 @@
   <visibility>public</visibility>
   <pricing>free</pricing>
   <tags><tag>roguelite</tag><tag>fps</tag><tag>action</tag><tag>shooter</tag></tags>
+  <tools><tool>Codex</tool><tool>ChatGPT</tool><tool>ElevenLabs</tool><tool>Suno</tool><tool>Unreal Engine</tool><tool>Blender</tool><tool>Photoshop</tool></tools>
   <release><asset>*windows*.zip</asset></release>
 </smog>
